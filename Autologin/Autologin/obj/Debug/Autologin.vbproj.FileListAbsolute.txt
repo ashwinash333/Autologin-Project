@@ -1,0 +1,11 @@
+D:\projects\VS\Autologin\Autologin\bin\Debug\Autologin.exe.config
+D:\projects\VS\Autologin\Autologin\bin\Debug\Autologin.exe
+D:\projects\VS\Autologin\Autologin\bin\Debug\Autologin.pdb
+D:\projects\VS\Autologin\Autologin\bin\Debug\Autologin.xml
+D:\projects\VS\Autologin\Autologin\obj\Debug\Autologin.Form1.resources
+D:\projects\VS\Autologin\Autologin\obj\Debug\Autologin.Resources.resources
+D:\projects\VS\Autologin\Autologin\obj\Debug\Autologin.vbproj.GenerateResource.Cache
+D:\projects\VS\Autologin\Autologin\obj\Debug\Autologin.exe
+D:\projects\VS\Autologin\Autologin\obj\Debug\Autologin.xml
+D:\projects\VS\Autologin\Autologin\obj\Debug\Autologin.pdb
+D:\projects\VS\Autologin\Autologin\obj\Debug\Autologin.vbprojResolveAssemblyReference.cache
