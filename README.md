@@ -32,7 +32,7 @@ Autologin project
 
  1. Double click on description on any list item to open in chrome
 
- 2. Click the item and click open in firefox to popen in firefox browser
+ 2. Click the item and click open in firefox to open in firefox browser
 
  3. Double click the username or password list items to copy the text to clipboard
 
