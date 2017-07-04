@@ -12,8 +12,10 @@ Autologin project
   Demo file available in Autologin/Autologin/screenshots/ folder named json1.json
   
   copy this file and paste in your Documents folder 
-   ![](Autologin/Autologin/screenshots/json.PNG)
-   Replace the values with original ones
+  
+  ![](Autologin/Autologin/screenshots/json.PNG)
+   
+  Replace the values with original ones
 
 4. To execute go to Autologin-project/Autologin/Autologin/bin/Debug/autologin.exe
 
