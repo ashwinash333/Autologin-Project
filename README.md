@@ -16,6 +16,8 @@ Autologin project
   ![](Autologin/Autologin/screenshots/json.PNG)
    
   Replace the values with original ones
+  
+  We can add the credentials as many as you want just make it sure to be as the above format
 
 4. To execute go to Autologin-project/Autologin/Autologin/bin/Debug/autologin.exe
 
@@ -37,3 +39,5 @@ Autologin project
  4. The password is masked with stars but it copies password to text
 
  5. To see password click togglespass
+ 
+ 6. We can open the file by clicking open button which opens the file we can edit it and click reload button to reload the values
