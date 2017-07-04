@@ -1,0 +1,23 @@
+﻿{
+  "login": [
+    {
+      "website": "gmail my",
+      "username": "enter username here",
+      "password": "enter password here",
+      "url": "https://accounts.google.com/signin"
+    },
+    {
+      "website": "enter short desciption here",
+      "username": "enter username here",
+      "password": "enter password here",
+      "url": "enter url here"
+    }, 
+    {
+      "website": "",
+      "username": "",
+      "password": "",
+      "url": "https://accounts.google.com/signin"
+    }
+    
+  ]
+}
