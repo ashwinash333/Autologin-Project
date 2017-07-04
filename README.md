@@ -17,7 +17,7 @@ Autologin project
    
   Replace the values with original ones
   
-  We can add the credentials as many as you want just make it sure to be as the above format
+  We can add the credentials as many as you want just make sure to be as the above json format
 
 4. To execute go to Autologin-project/Autologin/Autologin/bin/Debug/autologin.exe
 
