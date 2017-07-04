@@ -3,7 +3,7 @@ Autologin project
 ### Execution 
 1. First you need to install .net framework to Run this application
 
-     download link [clickhere](https://github.com/user/repo/blob/branch/other_file.md)
+     download link [clickhere](https://support.microsoft.com/en-ph/help/3102436/the-.net-framework-4.6.1-offline-installer-for-windows)
 
 2. After Installing .net framework download the project
 
